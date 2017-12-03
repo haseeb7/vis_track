@@ -10,7 +10,7 @@ swiftnav_ros
     Instructions:
     1. Clone repo to workspace
     2. Use wstool to update package list.
-    3. (If you get a error with usb_cam not being identical to remote, go with the (d)elete and update option, then pull repo again to replace delted file.)
+    3. (If you get a error with usb_cam not being identical to remote, go with the (d)elete and update option, then pull repo again to replace deleted file.)
     
    Use usb_cam-test2.launch to un the Insta360 Air
     
