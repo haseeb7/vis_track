@@ -1,0 +1,8 @@
+prefix=/home/usl/vis_track/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/usl/vis_track/install/include
+Libs: -L/home/usl/vis_track/install/lib -lusb_cam
+Requires: 

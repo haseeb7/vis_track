@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/usl/vis_track/devel/.private/usb_cam/setup.sh

@@ -1,0 +1,5 @@
+Symlinking /home/usl/vis_track/devel/share/usb_cam/cmake/usb_camConfig.cmake
+Symlinking /home/usl/vis_track/devel/share/usb_cam/cmake/usb_camConfig-version.cmake
+Symlinking /home/usl/vis_track/devel/lib/libusb_cam.so
+Symlinking /home/usl/vis_track/devel/lib/pkgconfig/usb_cam.pc
+Symlinking /home/usl/vis_track/devel/lib/usb_cam/usb_cam_node
